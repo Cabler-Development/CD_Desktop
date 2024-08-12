@@ -1,0 +1,19 @@
+{
+  "name": "cd_desktop",
+  "version": "1.0.0",
+  "description": "A Desktop for CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austincabler13/CD_Desktop.git"
+  },
+  "author": "AcGaming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austincabler13/CD_Desktop/issues"
+  },
+  "homepage": "https://github.com/austincabler13/CD_Desktop#readme"
+}
